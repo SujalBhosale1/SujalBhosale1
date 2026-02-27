@@ -1,20 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sujal Bhosale</h1>
-<h3 align="center">🚀 CSBS Student | AI Developer | Future Tech Founder | Healthcare Startup Builder</h3>
-
-<p align="center">
-  <a href="https://github.com/SujalBhosale1">
-    <img src="https://komarev.com/ghpvc/?username=SujalBhosale1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
+<h3 align="center">🚀 CSBS Student | AI Developer | Future Techy</h3>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Second Year **Computer Science & Business Systems (CSBS)** Student  
+- 🎓 Third Year **Computer Science & Business Systems (CSBS)** Student  
 - 🏫 JSPM Tathawade, Pune  
-- 💡 Passionate about **AI, Full Stack Development & Startup Building**
-- 🚀 Building projects in **AI + Web + Healthcare Tech**
+- 💡 Passionate about **AI, Full Stack Development**
+- 🚀 Building projects in **AI + Web**
 - 🔥 Currently mastering **Advanced Web Development & DSA**
 - 💬 Ask me about: `JavaScript`, `React`, `MongoDB`, `AI Projects`
 - 📍 Based in Pune, India
@@ -26,7 +20,6 @@
 - 🧠 AI Personal Assistant (Voice Enabled - PyQt5 + Python)
 - 🎨 AI Image Generator App (React + Tailwind + API Integration)
 - 🩸 Blood Donation DBMS System (MongoDB + JS)
-- 💻 PC Resource Renting Platform (Startup Idea)
 - 📁 Send Anywhere Clone (File Sharing App)
 
 ---
@@ -55,26 +48,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SujalBhosale1&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalBhosale1&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SujalBhosale1&theme=tokyonight" />
-</p>
-
----
-
 ## 🧩 Problem Solving Journey
 
-- 📚 Learning Data Structures & Algorithms (6-Month Master Plan)
+- 📚 Learning Data Structures & Algorithms
 - 🏆 Solving LeetCode & Coding Platform Problems
 - 🎯 Goal: Crack top tech companies & build my own tech startup
 
